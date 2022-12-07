@@ -1,8 +1,7 @@
-<h2>Olá eu sou a Daliane Rangel!<h2>
+### Olá eu sou a Daliane Rangel!
 
-<p>
 <h5>Estou cursando Análise e Desenvolvimento de sistemas e atualmente estou estudando tecnologias como Html5, Css3 e JavaScript</h5>
-<p>
+
 
 <div align="center">
   <a href= "https://github.com/dalianedev">
